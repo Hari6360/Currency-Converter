@@ -43,7 +43,7 @@ To get started with the Currency Converter, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   ```bash
+   ```
    git clone https://github.com/Hari6360/Currency-Converter.git
 
 
@@ -53,27 +53,27 @@ To get started with the Currency Converter, follow these steps:
 
 2.Install the necessary dependencies:
 
-$npm install
+`npm install `
 
 3.Start the development server:
-$npm start
+`npm start`
 
 4.Open your web browser and go to http://localhost:3000 to use the Currency Converter.
 
 # Usage
 
-*Select the currency you want to convert from in the "From" dropdown.
-*Enter the amount you wish to convert.
-*Choose the currency you want to convert to in the "To" dropdown.
-*Click the "Convert" button to see the converted amount.
+- Select the currency you want to convert from in the "From" dropdown.
+- Enter the amount you wish to convert.
+- Choose the currency you want to convert to in the "To" dropdown.
+- Click the "Convert" button to see the converted amount.
 
 # Tech Stack
 
-React
-JavaScript
-HTML
-Tailwind CSS
-API integration for currency data
+- React
+- JavaScript
+- HTML
+- Tailwind CSS
+- API integration for currency data
 
 # Contributing
 
